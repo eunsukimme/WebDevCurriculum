@@ -47,8 +47,7 @@
 
   6. 2000년 XHTML 1.0이 새로운 표준으로 [W3C Recommendation](https://www.w3.org/TR/xhtml1/)으로 게시됨. XHTML은 XML과 HTML을 합성하여 더 확장된 태그를 사용할 수 있으며, 문법은 정확히 지켜지지 않는다면 표현되지 않도록 문법 검사를 엄격하게 적용하였다. 그러나 XML은 버전과 버전사이의 하위 호환성을 지원하지 않아서 이전의 태그들로 작성된 것들이 사용되지 않을 수 있다는 문제점이 있었고, 문법이 엄격하여 습득에 어려움을 느껴 표준화에 실패하게 된다.
 
-  7. 2004년 Apple, Mozilla, Opera는 HTML을 계승하는 표준을 만들기 위해 공동으로 WHATWG(Web Hypertext Application Technology Working Group)를 발족. 2007년 W3C는 WHATWG와 공동으로 HTML5 제정에 합류하여 2008년 HTML 5 초안 공개. 2009년 7월 XHTML 2.0의 개발은 중지됨.
-     ![HTML의 역사](https://t1.daumcdn.net/cfile/tistory/120BBC3D50B2419637)
+  7. 2004년 Apple, Mozilla, Opera는 HTML을 계승하는 표준을 만들기 위해 공동으로 WHATWG(Web Hypertext Application Technology Working Group)를 발족. 2007년 W3C는 WHATWG와 공동으로 HTML5 제정에 합류하여 2008년 HTML 5 초안 공개. 2009년 7월 XHTML 2.0의 개발은 중지됨. ![HTML의 역사](https://t1.daumcdn.net/cfile/tistory/120BBC3D50B2419637)
 
   8. 2012년 이후 W3C의 표준과 WHATWG의 서로 다른 설계로 인해 표준이 점차 다양해짐. 그러다 2019년 5월 28일 W3C는 WHATWG가 HTML 및 DOM 표준의 유일한 게시자가 될 것이라고 발표. WHATWG "Living Standard"는 한동안 de facto가 됨.
 
